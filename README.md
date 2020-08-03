@@ -1,2 +1,2 @@
 # Trail
-School project
+School project on Raspberry Pi
